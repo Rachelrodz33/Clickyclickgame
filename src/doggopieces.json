@@ -1,0 +1,63 @@
+[
+    {
+      "imageName": 1,
+      "image": "./assets/images/puppo-1.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 2,
+      "image": "./assets/images/puppo-2.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 3,
+      "image": "./assets/images/puppo-3.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 4,
+      "image": "./assets/images/puppo-4.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 5,
+      "image": "./assets/images/puppo-5.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 6,
+      "image": "./assets/images/puppo-6.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 7,
+      "image": "./assets/images/puppo-7.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 8,
+      "image": "./assets/images/puppo-8.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 9,
+      "image": "./assets/images/puppo-9.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 10,
+      "image": "./assets/images/puppo-10.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 11,
+      "image": "./assets/images/puppo-11.jpg",
+      "clicked": false
+    },
+    {
+      "imageName": 12,
+      "image": "./assets/images/puppo-12.jpg",
+      "clicked": false
+    }
+  ]
+  
